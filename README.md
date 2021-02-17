@@ -1,2 +1,2 @@
 anime downloader
-support's windows, ios, linux, macos
+support's windows, ios, linux, macosa and android
