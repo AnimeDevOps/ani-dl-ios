@@ -1,0 +1,5 @@
+from anime1dl.cli import Anime1_Downloader
+import asyncio 
+
+cli = Anime1_Downloader()
+asyncio.run(cli.main())
